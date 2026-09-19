@@ -1,16 +1,12 @@
-## Hi there 👋
+## Hi I'm Saniya  👋
+   ##  About Me
+   * B.tech CSE Student currently building my programming fundamentals
+   * Student at : JC BOSE INSTITUTE OF SCIENCE AND TECHNOLOGY ; YMCA Faridabad
+   * Currently focused on learning new things and building my skills
 
-<!--
-**saniya-tanwar2006/saniya-tanwar2006** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+* 🚀  I’m currently working on Smart India Hackathon 2026 and is exploring technologies
+* 💻  I’m currently learning Python | C++ |Exploring software developement
+*  I’m looking to collaborate on interesting projects and learn from others.
+* 📫  You can reach me : GitHub or LinkedIn ( https://www.linkedin.com/in/saniya-tanwar-782a14435?utm_source=share_via&utm_content=profile&utm_medium=member_android )
+*  🌱 I'm just a beginner in tech, building my skills by practising every day, learning from my mistakes, improving along the way, and trying my best to turn my ideas into meaningful projects.
